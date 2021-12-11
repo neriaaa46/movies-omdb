@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(102, 102, 102);
+}
+
+.nav-bar-movies{
+      display: flex;
+      justify-content: center;
+      position: fixed;
+      z-index: 10;
+      top: 0px;
+      right: 0px;
+      width: 100%;
+      height: 40px;
+      background-color: black;
+      color: rgb(3, 126, 143);
+      font-family:fantasy;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    color: rgb(0, 99, 112);
+    height: 40px;
+    width: 100%;
+    background: black;
+    position: fixed;
+    bottom: 0px;
+    padding: 0px;
+}
+.icon-footer{
+   margin: 0px 10px;
+}
+.footer h6{
+    margin: 0px;
+    padding: 0px;
+    font-family:fantasy;
+
+}
+

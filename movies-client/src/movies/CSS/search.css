@@ -1,0 +1,43 @@
+
+  /*Search CSS*/
+
+  .serach-container{
+    height: 100px;
+    margin-bottom: 40px;
+    color: white;
+}
+.search-movies{
+    margin-top: 40px;
+    padding-left: 10px;
+    border-radius: 15px;
+    border: 2px solid rgba(255, 255, 255, 0.822);
+}
+.search-input{
+    outline:none;
+    width: 90%;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(102, 102, 102);
+    color: white;
+}
+
+::placeholder{
+    color: white;
+}
+.icon-search{
+   color: rgba(0, 0, 0, 0.822);
+   margin: auto;
+}
+
+.popcorn{
+    width: 120px;
+    height: 120px;
+}
+.loader h4{
+    font-family: serif;
+    color:rgb(255, 255, 255);
+    font-weight: 900;
+}
+.spinner-grow{
+    background-color: rgb(255, 255, 255);
+}
