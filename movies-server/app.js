@@ -15,6 +15,8 @@ app.use(cors({
   origin: 'http://localhost:3000'
 }))
 
+app.use(express.static(path.join(__dirname, 'views')));
+
 
 app.use(logger('dev'));
 app.use(express.json());
@@ -22,7 +24,14 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+
 app.use('/', indexRouter);
 app.use('/api/movies', moviesRouter);
+
+
+app.get('*', (req, res) => {
+  res.sendFile(path.resolve(__dirname, 'views', 'index.html'));
+})
+
 
 module.exports = app;
