@@ -1,3 +1,4 @@
 movies-client/.env
+movies-server/.env
 movies-client/node_modules
 movies-server/node_modules
