@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/omdb-movies-web.git/static/css/main.1baa8aae.chunk.css",
-    "main.js": "/omdb-movies-web.git/static/js/main.7a2c4c0d.chunk.js",
-    "main.js.map": "/omdb-movies-web.git/static/js/main.7a2c4c0d.chunk.js.map",
-    "runtime-main.js": "/omdb-movies-web.git/static/js/runtime-main.58114308.js",
-    "runtime-main.js.map": "/omdb-movies-web.git/static/js/runtime-main.58114308.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/omdb-movies-web.git/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.619f3f6d.chunk.js": "/omdb-movies-web.git/static/js/2.619f3f6d.chunk.js",
-    "static/js/2.619f3f6d.chunk.js.map": "/omdb-movies-web.git/static/js/2.619f3f6d.chunk.js.map",
-    "static/js/3.a1a47bb5.chunk.js": "/omdb-movies-web.git/static/js/3.a1a47bb5.chunk.js",
-    "static/js/3.a1a47bb5.chunk.js.map": "/omdb-movies-web.git/static/js/3.a1a47bb5.chunk.js.map",
-    "index.html": "/omdb-movies-web.git/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/omdb-movies-web.git/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.1baa8aae.chunk.css.map": "/omdb-movies-web.git/static/css/main.1baa8aae.chunk.css.map",
-    "static/js/2.619f3f6d.chunk.js.LICENSE.txt": "/omdb-movies-web.git/static/js/2.619f3f6d.chunk.js.LICENSE.txt",
-    "static/media/popcorn.ea76eb48.png": "/omdb-movies-web.git/static/media/popcorn.ea76eb48.png"
+    "main.css": "/static/css/main.1baa8aae.chunk.css",
+    "main.js": "/static/js/main.8af1b66c.chunk.js",
+    "main.js.map": "/static/js/main.8af1b66c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5eb2247.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5eb2247.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.619f3f6d.chunk.js": "/static/js/2.619f3f6d.chunk.js",
+    "static/js/2.619f3f6d.chunk.js.map": "/static/js/2.619f3f6d.chunk.js.map",
+    "static/js/3.a1a47bb5.chunk.js": "/static/js/3.a1a47bb5.chunk.js",
+    "static/js/3.a1a47bb5.chunk.js.map": "/static/js/3.a1a47bb5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.1baa8aae.chunk.css.map": "/static/css/main.1baa8aae.chunk.css.map",
+    "static/js/2.619f3f6d.chunk.js.LICENSE.txt": "/static/js/2.619f3f6d.chunk.js.LICENSE.txt",
+    "static/media/popcorn.ea76eb48.png": "/static/media/popcorn.ea76eb48.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.58114308.js",
+    "static/js/runtime-main.a5eb2247.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.619f3f6d.chunk.js",
     "static/css/main.1baa8aae.chunk.css",
-    "static/js/main.7a2c4c0d.chunk.js"
+    "static/js/main.8af1b66c.chunk.js"
   ]
 }
